@@ -20,3 +20,14 @@ In this analysis I will look at 3 key aspects of the top 30 countries by GDP:
 - Which age group has highest suicide rate over the years and how does it differ from the most recent data point?
 - Which generation have the highest suicide rate?
 
+## File Descriptions
+
+There are 3 files in this repository:
+- ReadMe: General project overview
+- data.csv: the dataset for the analysis
+- Global_Suicide_Analysis1.ipynb: the juypter notebook for this analysis
+
+
+## The Analysis
+For the analysis the main libraries were numpy, pandas. Viusalizations has a big part in this analyzation, 
+because it´s based on principles of Descriptive Statistics. That´s why I used next to matplot plotly and pyecharts too.
