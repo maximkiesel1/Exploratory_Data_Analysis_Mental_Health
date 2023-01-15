@@ -1,5 +1,5 @@
-# Global_Suicide_Analysis
+# Global Suicide Analysis
 
-    - Which country has the highest Development over the years
-    - Which age group has the highest rise over the years
-    - How strong will be the suicide rate in 5 years
+![stormseeker-rX12B5uX7QM-unsplash](https://user-images.githubusercontent.com/119667336/212559824-f90d88db-9463-432d-bad8-c1164f781c3d.jpg)
+
+This analysis is 
