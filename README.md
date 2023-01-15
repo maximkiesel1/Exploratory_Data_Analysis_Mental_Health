@@ -12,3 +12,11 @@ This helps us to understand in which direction the suicide rates were developing
 
 what are areas which we need to act.
 
+
+
+In this analysis I will look at 3 key aspects of the top 30 countries by GDP:
+
+- Which 5 countries have the highest suicide rate over the years and how does it differ from the most recent data point?
+- Which age group has highest suicide rate over the years and how does it differ from the most recent data point?
+- Which generation have the highest suicide rate?
+
