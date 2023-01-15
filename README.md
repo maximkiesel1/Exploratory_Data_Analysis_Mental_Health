@@ -25,7 +25,7 @@ In this analysis I will look at 3 key aspects of the top 30 countries by GDP:
 There are 3 files in this repository:
 - ReadMe: General project overview
 - data.csv: the dataset for the analysis
-- Global_Suicide_Analysis1.ipynb: the juypter notebook for this analysis
+- Global_Suicide_Analysis.ipynb: the juypter notebook for this analysis
 
 
 ## The Analysis
