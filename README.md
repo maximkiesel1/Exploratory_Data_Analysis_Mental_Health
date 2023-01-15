@@ -8,6 +8,7 @@ This analysis is should improve the awareness about the importantness of mental 
 
 The goal is to get an insight in the suicide rates of the top 30 industry nations.
 
-This helps to understand in which direction the suicide rates where developed and what are
+This helps us to understand in which direction the suicide rates were developing and 
 
-areas where 
+what are areas which we need to act.
+
