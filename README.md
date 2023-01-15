@@ -33,7 +33,7 @@ For the analysis the main libraries were numpy, pandas. Viusalizations has a big
 because it´s based on principles of Descriptive Statistics. That´s why I used next to matplot plotly and pyecharts too.
 
 Generel observations of the data were:
-- Data was after the year 2015 wrong
+- Data was after the year 2015 wrong. That´s why analyzation is just in the area between 1985 and 2015
 - Some countries were underrepresented
 - Low NaN-rate in the columns
 - The data were based on a time series
