@@ -4,7 +4,7 @@
 
 ## Project Motivation
 
-This analysis is should improve the awareness about the importantness of mental health.
+This analysis is should improve the awareness about the importantness of mental health und suicide prevention.
 
 The goal is to get an insight in the suicide rates of the top 30 industry nations.
 
@@ -31,3 +31,20 @@ There are 3 files in this repository:
 ## The Analysis
 For the analysis the main libraries were numpy, pandas. Viusalizations has a big part in this analyzation, 
 because it´s based on principles of Descriptive Statistics. That´s why I used next to matplot plotly and pyecharts too.
+
+Generel observations of the data were:
+- Data was after the year 2015 wrong
+- Some countries were underrepresented
+- Low NaN-rate in the columns
+- The data were based on a time series
+- Suspiciously high numerical values
+- Splitted data of a country 
+
+The main findings of the analysis were:
+- Almost all top 5 countries have decrease of their suicide rates. On exceptions is the Republic of Korea.
+- The age group with the highest rate are people who are older the 74 years. 
+- The generation with the highest suicide rate is the Silent Generation. The generation with smallest suicide rate is the Generation X.
+
+## Acknowledgements
+The dataset for this analyzation was provided from Omkar Gowda in Kaggle:
+https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
