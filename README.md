@@ -46,5 +46,5 @@ The main findings of the analysis were:
 - The generation with the highest suicide rate is the Silent Generation. The generation with smallest suicide rate is the Generation X.
 
 ## Acknowledgements
-The dataset for this analyzation was provided from Omkar Gowda in Kaggle:
+The dataset for this analyzation was thankfully provided from Omkar Gowda in Kaggle:
 https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
