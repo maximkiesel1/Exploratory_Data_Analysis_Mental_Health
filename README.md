@@ -46,7 +46,7 @@ The main findings of the analysis were:
 - The generation with the highest suicide rate is the Silent Generation. The generation with smallest suicide rate is the Generation X.
 
 ## Summery
-You can find a summery of this analysis my [blogpost]
+You can find a summery of this analysis my [blogpost].
 
 [blogpost]: https://medium.com/@kiesel_maxim/this-analysis-of-the-top-30-countries-by-gdp-makes-you-think-about-mental-health-in-this-world-9c5e96e037bd
 
