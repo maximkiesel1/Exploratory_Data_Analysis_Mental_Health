@@ -45,6 +45,11 @@ The main findings of the analysis were:
 - The age group with the highest rate are people who are older the 74 years. 
 - The generation with the highest suicide rate is the Silent Generation. The generation with smallest suicide rate is the Generation X.
 
+## Summery
+You can find a summery of this analysis my [blogpost]
+
+[blogpost]: https://medium.com/@kiesel_maxim/this-analysis-of-the-top-30-countries-by-gdp-makes-you-think-about-mental-health-in-this-world-9c5e96e037bd
+
 ## Acknowledgements
 The dataset for this analyzation was thankfully provided from Omkar Gowda in Kaggle:
 https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021
