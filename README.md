@@ -1,6 +1,6 @@
 # Global Suicide Analysis
 
-<img width="1179" alt="Bildschirm­foto 2023-01-15 um 19 26 47" src="https://user-images.githubusercontent.com/119667336/212559910-1874bf98-86d3-4218-abe8-9ef293a06ee5.png">
+![image](https://user-images.githubusercontent.com/119667336/215277695-9910728b-3780-4c4e-a548-61fb4f23f1f1.png)
 
 ## Project Motivation
 
